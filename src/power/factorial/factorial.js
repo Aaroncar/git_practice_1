@@ -13,7 +13,7 @@ const factorial = (number) => {
     }
   };
   ww
-  const firstTwentyNumber = (n) => {
+  const first Twenty Number = (n) => {
     let i = 0;
     while (i < n) {
       if (i % 2 === 0) {
